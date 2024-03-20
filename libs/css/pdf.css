@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;900&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.font {
+    font-family: 'Roboto', sans-serif !important;
+}
+
+table {
+    border: 1px solid black;
+}
+
+th,
+td {
+    border: 1px solid black;
+    padding: .5rem 0;
+}
+
+/* img{
+    position: absolute;
+    right: -40px !important;
+    top: -50px !important;
+} */
+.font-size {
+    font-size: 14px !important;
+}
+
+body {
+font-family: Arial, sans-serif;
+}
+
+.header {
+text-align: center;
+margin-bottom: 20px;
+}
+
+.name {
+font-size: 24px;
+font-weight: bold;
+text-transform: uppercase;
+}
+
+.contact-info {
+font-size: 14px;
+margin-bottom: 10px;
+text-transform: uppercase;
+}
+
+.section {
+margin-bottom: 20px;
+}
+
+.section-title {
+font-size: 18px;
+font-weight: bold;
+margin-bottom: 10px;
+text-transform: uppercase;
+}
+
+.subsection-title {
+font-size: 16px;
+font-weight: bold;
+margin-bottom: 10px;
+}
+
+.item {
+margin-bottom: 5px;
+}
+
+.item-title {
+font-weight: bold;
+display: inline-block;
+width: 120px;
+}
+
+.item-content {
+display: inline-block;
+}
+
+.table{
+    margin-top: -30px;
+}
+
+.table thead{
+    font-size: 12px;
+    font-weight: 500;
+}

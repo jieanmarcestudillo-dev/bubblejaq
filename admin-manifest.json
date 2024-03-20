@@ -1,0 +1,21 @@
+{
+    "name": "BubbleJaq",
+    "short_name": "BubbleJaq",
+    "start_url": "layouts/header.php",
+    "display": "fullscreen",
+    "background_color": "#ffffff",
+    "theme_color": "#dc3545",
+    "icons": [
+      {
+        "src": "uploads/jaq.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "uploads/jaq-icon.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  
